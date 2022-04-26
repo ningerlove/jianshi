@@ -9,4 +9,4 @@
 
 想开客栈，奶茶店，去全世界旅游，做好玩的App
 # 欢迎榜一大哥
-<img src="https://github.com/ningerlove/jianshi/blob/main/app/src/main/res/mipmap-mdpi/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220410155152.jpg" width="500px">
+<img src="https://github.com/ningerlove/jianshi/blob/main/app/src/main/res/mipmap-mdpi/pay_weixing_liuning.jpg" width="500px">
