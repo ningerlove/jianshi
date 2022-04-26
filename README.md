@@ -15,8 +15,8 @@
 
 想开客栈，奶茶店，去全世界旅游，做好玩的App
 # 欢迎榜一大哥
-<img src="https://github.com/ningerlove/jianshi/blob/main/app/src/main/res/mipmap-mdpi/pay_weixing_liuning.jpg" width="400px">
+<img src="https://github.com/ningerlove/jianshi/blob/main/app/src/main/res/mipmap-mdpi/pay_weixing_liuning.jpg" width="300px">
 
 # 联系作者
-<img src="https://github.com/ningerlove/jianshi/blob/main/app/src/main/res/others/liuning_weixing.jpg" width="400px">
+<img src="https://github.com/ningerlove/jianshi/blob/main/app/src/main/res/others/liuning_weixing.jpg" width="300px">
 
