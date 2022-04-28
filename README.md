@@ -1,6 +1,6 @@
 # jianshi 简诗
 原始的简诗（https://github.com/wingjay/jianshi) 项目很久未更新,许多库已经过时，无法直接使用，尤其对初学者不够友好，本项目本着学习开源的目的，重构原始项目
-# App说明
+# App 说明
 本地址包含App端的全部代码，服务端的代码（https://github.com/ningerlove/jianshiserver ）
 # 作品
 
